@@ -1,0 +1,4 @@
+Eduardo, 30 anos, Peso: 80 kg, Altura: 178 m, IMC: 0,00
+Eduardo, 30 anos, Peso: 80 kg, Altura: 1,78 m, IMC: 25,25
+Pamella, 30 anos, Peso: 67 kg, Altura: 1,75 m, IMC: 21,88
+Willyam, 31 anos, Peso: 125 kg, Altura: 1,82 m, IMC: 37,74
